@@ -24,7 +24,7 @@
 #### Committee Member of HSM Chess Club
 
 ## 🛠 Skills
-* C++, Java, Design Thinking
+* C++, Java, Design Thinking,PC Hardware Assembly
 
 ## 📜 Courses & Certificates
 * Technology and Information System (SECP1513)
