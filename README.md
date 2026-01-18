@@ -8,20 +8,20 @@
 
 ## 💼 Position
 ### Universiti Teknologi Malaysia
-#### member of Global Buddies UTM
-#### member of Kelab Kaunseling Dan Kerjaya (KKDK)
-#### member of Sekretariat Rakan Muda
-#### member of KTR Senimas club
-#### member of KTR RASREC club
+* member of Global Buddies UTM
+* member of Kelab Kaunseling Dan Kerjaya (KKDK)
+* member of Sekretariat Rakan Muda
+* member of KTR Senimas club
+* member of KTR RASREC club
 
 ### Johor Matriculation College
-#### PAL Leader
-#### Class Representative for Semester II
+* PAL Leader
+* Class Representative for Semester II
 
 ### High School Muar (HSM)
-#### President of Interact Club
-#### Treasurer of Kadet Remaja Sekolah (KRS)
-#### Committee Member of HSM Chess Club
+* President of Interact Club
+* Treasurer of Kadet Remaja Sekolah (KRS)
+* Committee Member of HSM Chess Club
 
 ## 🛠 Skills
 * C++, Java, Design Thinking,PC Hardware Assembly
