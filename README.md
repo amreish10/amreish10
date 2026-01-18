@@ -23,7 +23,7 @@
 ## Position
 
 ### Universiti Teknologi Malaysia
-* Global Buddies UTM (Member)
+* Global Buddies UTM (Activity Unit)
 * Kelab Kaunseling Dan Kerjaya (Member)
 * Sekretariat Rakan Muda (Member)
 * CyberX UTM (Member)
