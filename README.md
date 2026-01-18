@@ -1,30 +1,59 @@
 ## Hi there, I'm Amreish 👋
 
-<!--
+
 ## 🎓 Education
-**Universiti Teknologi Malaysia** | Bachelor of Computer Science (Network and Security) with Honours | 2025 – Present
-**Johor Matriculatuion College** | Physical Science | 2024-2025
+**Sekolah Kebangsaan Sungai Abong** | 2013-2018
+* UPSR (6A)
+
 **High School Muar** | Pure Science | 2019-2023
+* SPM (5A+ 2A 1A- 1B)
+* CEFR : C1
+  
+**Johor Matriculatuion College** | Physical Science | 2024-2025
+* PNGS I : 4.00
+* PNGS II : 3.92
+* PNGK : 3.96
+* MUET : 4.5
+* Co-curriculum : 10%
+
+**Universiti Teknologi Malaysia** | Bachelor of Computer Science (Network and Security) with Honours | 2025 – Present
+
+
 
 ## 💼 Position
+
 ### Universiti Teknologi Malaysia
-* member of Global Buddies UTM
-* member of Kelab Kaunseling Dan Kerjaya (KKDK)
-* member of Sekretariat Rakan Muda
-* member of KTR Senimas club
-* member of KTR RASREC club
+* Global Buddies UTM (Member)
+* Kelab Kaunseling Dan Kerjaya (Member)
+* Sekretariat Rakan Muda (Member)
+* CyberX UTM (Member)
+* KTR Senimas club (Member)
+* KTR RASREC club (Member)
 
 ### Johor Matriculation College
 * PAL Leader
 * Class Representative for Semester II
+* Chemistry Club (Member)
 
 ### High School Muar (HSM)
-* President of Interact Club
-* Treasurer of Kadet Remaja Sekolah (KRS)
-* Committee Member of HSM Chess Club
+* Interact Club (President) - 2023
+* Interact Club (Member) - 2020-2022
+* Kadet Remaja Sekolah (Treasurer) - 2023
+* Kadet Remaja Sekolah (Member) - 2020-2022 
+* HSM Chess Club (Committee Member) - 2020-2023
 
 ## 🛠 Skills
-* C++, Java, Design Thinking,PC Hardware Assembly
+* C++, Java
+* PC Assembly
+* Capcut
+* Canva
+* Microsoft Word,Excel,PowerPoint
+
+## Soft Skills
+* Collaboration & Teamwork - Able to work well in groups for projects and assignments
+* Leadeship - Able to guide members and step up to start tasks or solve a problem
+* Problem Solving - Able to solve various complex and challenging problems
+* Time Management - Able to prioritize tasks and meet all project deadlines within a strict academic schedule.
 
 ## 📜 Courses & Certificates
 * Technology and Information System (SECP1513)
